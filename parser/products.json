@@ -1,0 +1,1752 @@
+[
+{
+	name: 'Абрикос',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Авокадо',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Агар-агар',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Айва',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Актимель натуральный 0%',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Алкоголь',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Ананас',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Анис',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Антрекот',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Анчоус',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Арбуз',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Ароматизаторы',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Аррорут',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Артишок',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Аспартам',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Базилик',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Баклажан',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Банан',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Баранина',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Бастурма',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Брезаола',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Брокколи',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Брюква',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Букцинум',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Булгур',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Бульонный кубик обезжиренный',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Ваниль',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Варенье',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Васаби',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Вермишель из конньяку',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Вермишель соевая',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Ветчина',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Ветчина постная до 4%',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Вино белое',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Вино красное',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Виноград',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Вода',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Вода газированная',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Вяленое мясо «viande des Grisons»',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Гамбас',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Гвоздика',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Говядина',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Голубь',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Горох нут',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Горох сушеный',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Горчица',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Горчица Savora',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Гребешок Сен-жак',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Грейпфрут',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Гречка',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Грибы',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Груша',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Гуаровая камедь',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Гусь',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Дичь',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Дрожжи пивные',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Дрожжи хлебопекарские',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Дыня',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Ежевика',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Жевательная резинка без сахара',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Желатин',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Заменитель сахара',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Икра (без масла)',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Имбирь',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Индюшка',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Йогурт 0%',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Йогурт ароматизированный 0%',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Йогурт с кусочками фруктов 0%',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Йогурт соевый',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Какао-порошок (до 12%)',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Кальмар',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Кальмар сушеный (без сахара)',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Каперсы',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Капуста (все виды)',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Каракатица',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Кардамон',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Карри',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Картофель',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Каштан',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Кетчуп диетический',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Кефир обезжиренный 0%',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Киви',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Клубника',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Козлобородник',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Кокос',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Кола Light',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Колбаса кровяная',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Конина',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Кориандр',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Корица',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Корнишон',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Кофе',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Кофе растворимый',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Краб',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Крабовые палочки',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Креветка',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Кролик',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Крупа (любая)',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Кукуруза',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Кукурузный крахмал',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Кумкват',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Курица',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Куркума',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Кэроб',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Лавровый лист',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Лайм',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Лимон',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Лимонная трава',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Литторина',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Личи',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Лук',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Лук-порей',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Лук-шалот',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Лягушачьи лапки',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Майонез',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Макаронные изделия',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Малина',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Манго',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Мангольд',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Маргарин',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Маслина',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Масло оливковое',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Масло парафиновое (вазелиновое)',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Масло сливочное',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Маш-салат',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Мед',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Мидия',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Молоко кокосовое обезжиренное',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Молоко обезжиренное',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Молоко соевое',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Молоко сухое обезжиренное (до 1,5%)',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Морковь',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Морские водоросли',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Морской еж',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Мука (все виды)',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Мускатный орех',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Мята',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Нори',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Нут',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Овсяные хлопья',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Огурец',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Олива',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Омар',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Орегано',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Орех грецкий',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Орех лесной',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Осьминог',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Отруби овсяные',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Отруби пшеничные',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Панировочные сухари',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Папайя',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Паприка',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Пастернак',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Пастрами',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Патиссон',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Перепела',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Перец',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Перец (пряность)',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Персик',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Петрушка',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Печень',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Печень куриная',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Пиво',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Помидор',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Попкорн',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Протеиновый коктейль Protifar',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Пудинг (сухая смесь без сахара)',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Разрыхлитель',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Рак',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Ревень',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Редис',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Репа',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Рис',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Рис коричневый',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Рисовая бумага',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Розмарин',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Ростки бамбука',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Ростки сои',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Рыба в панировке',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Рыба сушеная',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Салат',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Сахар',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Сахар коричневый',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Свекла',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Сейтан',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Сельдерей',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Семена кунжута',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Семена проросшие',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Семечки',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Сердцевина пальмы',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Сироп агавы',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Слива',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Сода',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Соус соевый',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Соус соевый сладкий',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Соль',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Спаржа',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Стевия',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Страус',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Сухофрукты',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Сыры до 7%',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Тапиока',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Творог 0%',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Телятина',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Тимьян',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Тмин',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Толокно',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Томатная паста',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Топинамбур',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Тофу',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Тофу «шелковый»',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Тыква',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Укроп',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Уксус',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Улитка',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Устрица',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Утка',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Фасоль',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Фасоль стручковая',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Фенхель',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Фруктоза',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Фундук',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Хлеб',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Хлеб цельнозерновой',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Хлеб белково-отрубной',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Цедра лимонная',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Цедра цитрусовая',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Цесарка',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Цикорий',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Цуккини',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Цыпленок',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Чай',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Чай травяной',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Черная смородина',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Черника',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Черри',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Чеснок',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Чечевица',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Шампанское',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Шафран',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Шоколад',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: false,
+	allowedInStabilization: true
+},
+{
+	name: 'Шпинат',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Эндивий',
+	allowedInAttack: false,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Эстрагон',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Яблоко',
+	allowedInAttack: false,
+	allowedInCruise: false,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Ягоды Годжи (Goji)',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Язык говяжий (передняя часть)',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Язык телячий',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Яйцо',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+{
+	name: 'Яйцо перепелиное',
+	allowedInAttack: true,
+	allowedInCruise: true,
+	allowedInConsolidation: true,
+	allowedInStabilization: true
+},
+]
